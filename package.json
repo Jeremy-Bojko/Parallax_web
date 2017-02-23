@@ -1,0 +1,16 @@
+{
+  "name": "margot_parallax_v3_",
+  "version": "1.0.0",
+  "description": "Video Series [ for free on YouTube](https://www.youtube.com/playlist?list=PLqGj3iMvMa4IyCbhul-PdeiDqmh4ooJzk) on the [DevTips](https://www.youtube.com/user/DevTipsForDesigners) Channel",
+  "main": "index.js",
+  "scripts": {
+    "hello": "echo Hello World",  
+    "build-css": "./bin/build-css", 
+    "watch-css": "./bin/watch-css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.0"
+  }
+}
